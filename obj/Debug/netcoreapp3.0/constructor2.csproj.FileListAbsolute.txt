@@ -1,0 +1,11 @@
+C:\csharp\en\constructor2\bin\Debug\netcoreapp3.0\constructor2.exe
+C:\csharp\en\constructor2\bin\Debug\netcoreapp3.0\constructor2.deps.json
+C:\csharp\en\constructor2\bin\Debug\netcoreapp3.0\constructor2.runtimeconfig.json
+C:\csharp\en\constructor2\bin\Debug\netcoreapp3.0\constructor2.runtimeconfig.dev.json
+C:\csharp\en\constructor2\bin\Debug\netcoreapp3.0\constructor2.dll
+C:\csharp\en\constructor2\bin\Debug\netcoreapp3.0\constructor2.pdb
+C:\csharp\en\constructor2\obj\Debug\netcoreapp3.0\constructor2.csprojAssemblyReference.cache
+C:\csharp\en\constructor2\obj\Debug\netcoreapp3.0\constructor2.AssemblyInfoInputs.cache
+C:\csharp\en\constructor2\obj\Debug\netcoreapp3.0\constructor2.AssemblyInfo.cs
+C:\csharp\en\constructor2\obj\Debug\netcoreapp3.0\constructor2.dll
+C:\csharp\en\constructor2\obj\Debug\netcoreapp3.0\constructor2.pdb
